@@ -1,0 +1,4 @@
+858=X,525=Y,8=Pxl/Ch,168914=Max_Ch,30740=Enc_Ch,107306=UnCh_Pxl,138644=Ch_Pxl,124951=Uniq_Pxl
+30=X,20=Y,8=Pxl/Ch,220=Max_Ch,55=Enc_Ch,195=UnCh_Pxl,275=Ch_Pxl,245=Uniq_Pxl
+800=X,600=Y,8=Pxl/Ch,179995=Max_Ch,3339=Enc_Ch,13442=UnCh_Pxl,13300=Ch_Pxl,13194=Uniq_Pxl
+858=X,525=Y,8=Pxl/Ch,168914=Max_Ch,55=Enc_Ch,275=UnCh_Pxl,195=Ch_Pxl,195=Uniq_Pxl

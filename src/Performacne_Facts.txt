@@ -1,0 +1,17 @@
+Image Size 30X20
+
+Characters:- 220
+Changed = 1018:   Unchanged= 772
+        56.87%            43.12%
+
+Characters:- 106
+Changed = 504:   Unchanged= 374
+        57.4%            42.5%
+
+Characters:- 53
+Changed = 265:   Unchanged= 189
+        58.37%            41.63%
+
+
+
+
